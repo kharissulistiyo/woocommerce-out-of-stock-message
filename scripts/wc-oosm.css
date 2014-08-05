@@ -1,0 +1,10 @@
+._out_of_stock_note_field,
+._wc_oosm_use_global_note_field {
+  display: none; }
+  ._out_of_stock_note_field.visible,
+  ._wc_oosm_use_global_note_field.visible {
+    display: block; }
+
+#_out_of_stock_note {
+  min-width: 70%;
+  min-height: 120px; }
